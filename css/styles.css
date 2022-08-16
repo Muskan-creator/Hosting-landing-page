@@ -99,23 +99,26 @@ cursor: pointer;
 
 .hero .hero-right img {
     width: 40vw;
-    overflow: hidden;
+  
 }
 
 
 /* testing */
 .testing {
     display: flex;
-    height: 100vh;
+   
+   
     align-items: center;
     justify-content: space-between;
 }
 .testing .testing-left img {
     width: 38vw;
 }
-.testing-right{
+.testing-right {
+   
     padding-left:4rem;
 }
+
 
 
 
@@ -123,7 +126,7 @@ cursor: pointer;
     font-weight: 500;
     color: #878787;
     line-height: 30px;
-    margin-top: 50px;
+    margin-top: 5rem;
 }
 
 /*--------------------- technical section ---------------------*/
@@ -499,7 +502,7 @@ cursor: pointer;
     }
     
     .hero{
-        height:100vh;
+        min-height:100vh;
         flex-direction: column;
        
         
@@ -514,11 +517,9 @@ cursor: pointer;
     }
     .testing{
         flex-direction: column-reverse;
-       
+       margin-top:5rem;
     }
-    .testing-right{
-        margin-top: 40rem;
-    }
+    
     .technical-section{
         flex-direction: column;
     }
@@ -542,8 +543,13 @@ cursor: pointer;
     
 }
 @media  only screen and (max-width:600px){
+    .hero{
+        min-height:100vh;
+    }
+   
     .testing .testing-left img{
         width:300px;
+        padding-top:5rem;
     }
     .technical-section .technical-section-right img{
         width:100vw;
@@ -561,5 +567,24 @@ cursor: pointer;
         padding-left: 2rem;
         justify-content: center;
         align-items: center;
+    }
+   
+}
+@media  only screen and (max-width:300px){
+    .testing{
+        padding-top:10rem;
+    }
+    .services-section{
+        padding-top: 10rem;
+    }
+    .customer-card{
+        width:15rem;
+    }
+    .testing .testing-left img{
+        width:100px;
+   
+    }
+    .heading{
+        font-size:1.5rem;
     }
 }
