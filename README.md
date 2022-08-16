@@ -1,25 +1,34 @@
-# Assignment 1
+# Project 11 - Hosting-Landing-Page
+##  Created by `Muskan` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--11-lightgrey)
+> ### **Live deployed website link** :-[Netlify link](https://hosting-landing-page2.netlify.app)
+<br>
+<span>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23404d59.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</span>
 
-![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
+##  How website looks like
 
-## Project 11 [Live Link](https://live-proj-11.netlify.app)
+<img src="https://github.com/Muskan-creator/Hosting-landing-page/blob/master/11.png" height="60%" width="50%">
 
--   Skills Gained in this project
-    -   Learned to create linear gradient border using **::before** pseudo element
-    -   Learned to create complex cards with different sections.
+## What I have learned in this project?
 
----
+  - I have learned about background image positioning
+  - I have learned about various css properties
+  - Learned to manage different sections in a single webpage
+  - Learnt transitioning properties and animation
 
-## Time taken to finish this project
+## This project took around 7 hours to complete .
 
--   7 hour taken to complete it.
+## Connect with me on :-
+<a href="https://twitter.com/Muskan11548907?s=08" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter;" />
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-bansal-095601189/" target="_blank">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
+  </a>
 
-#### Screenshot
-
-![Desktop](./screenshots/project-11.png)
